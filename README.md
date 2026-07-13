@@ -75,8 +75,6 @@ patiphat@cloudops:~$ ls -la ~/skills/
 
 ## ⚡ tech stack
 
-<br/>
-
 <!-- CLOUD -->
 **☁️ Cloud & Infrastructure**
 <br/>
@@ -88,7 +86,6 @@ patiphat@cloudops:~$ ls -la ~/skills/
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 
 <br/>
-<br/>
 
 <!-- CONTAINERS -->
 **🐳 Containers & Orchestration**
@@ -98,7 +95,6 @@ patiphat@cloudops:~$ ls -la ~/skills/
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
 
-<br/>
 <br/>
 
 <!-- CI/CD -->
@@ -111,7 +107,6 @@ patiphat@cloudops:~$ ls -la ~/skills/
 <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white" />
 
 <br/>
-<br/>
 
 <!-- SECURITY -->
 **🔐 Cyber Security**
@@ -123,7 +118,6 @@ patiphat@cloudops:~$ ls -la ~/skills/
 <img src="https://img.shields.io/badge/OpenVAS-5B8C2A?style=flat-square&logo=openbugbounty&logoColor=white" />
 
 <br/>
-<br/>
 
 <!-- DATABASE -->
 **🗄️ Database & Storage**
@@ -133,7 +127,6 @@ patiphat@cloudops:~$ ls -la ~/skills/
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 
-<br/>
 <br/>
 
 <!-- MAIL & INFRA -->
@@ -146,7 +139,6 @@ patiphat@cloudops:~$ ls -la ~/skills/
 <img src="https://img.shields.io/badge/DNS-4A154B?style=flat-square&logo=bitdefender&logoColor=white" />
 
 <br/>
-<br/>
 
 <!-- SSL & CERTS -->
 **🔒 SSL/TLS & Certificate Management**
@@ -158,7 +150,6 @@ patiphat@cloudops:~$ ls -la ~/skills/
 <img src="https://img.shields.io/badge/PKI-005A9C?style=flat-square&logo=securityscorecard&logoColor=white" />
 
 <br/>
-<br/>
 
 <!-- LANGUAGES -->
 **💻 Languages & Scripting**
@@ -169,7 +160,6 @@ patiphat@cloudops:~$ ls -la ~/skills/
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 
-<br/>
 <br/>
 
 <!-- AI & LLM -->
