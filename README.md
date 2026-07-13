@@ -7,7 +7,7 @@
 
 <!-- ===== HEADER BANNER ===== -->
 <a href="https://github.com/padidong">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=3,12,22&height=200&section=header&text=Patiphat%20Jeenchum&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Cyber%20Security&descSize=15&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,0,4&height=200&section=header&text=Patiphat%20Jeenchum&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Cyber%20Security&descSize=15&descAlignY=58" />
 </a>
 
 <!-- ===== TYPING ANIMATION ===== -->
@@ -229,6 +229,6 @@ patiphat:
 
 <div align="center">
   <a href="https://github.com/padidong">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=3,12,22&height=100&section=footer&text=%E2%AD%90%20From%20padidong%20with%20%E2%98%95&fontSize=16&fontColor=ffffff&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,0,4&height=100&section=footer&text=%E2%AD%90%20From%20padidong%20with%20%E2%98%95&fontSize=16&fontColor=ffffff&animation=fadeIn" />
   </a>
 </div>
