@@ -73,6 +73,12 @@ patiphat@cloudops:~$ cat ~/.currently
   📖 Kubernetes Security Hardening
   📖 AI-Powered DevOps (MLOps)
 
+patiphat@cloudops:~$ cat ~/.tools
+──────────────────────────────────
+  🛠️  VS Code  ·  Vim  ·  Tmux  ·  Warp
+  🛠️  Docker Desktop  ·  Lens  ·  k9s
+  🛠️  Burp Suite  ·  Wireshark  ·  Nmap
+
 patiphat@cloudops:~$ cat ~/.interests
 ──────────────────────────────────
   🎯 CTF & Bug Bounty
