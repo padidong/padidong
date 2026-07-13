@@ -65,7 +65,40 @@ patiphat@cloudops:~$ ls -la ~/skills/
   drwxr-xr-x  security  blue-team threat-hunt
   drwxr-xr-x  database  postgres mysql redis
   drwxr-xr-x  infra     nginx ssl mail dns
+
+patiphat@cloudops:~$ cat ~/.currently
+──────────────────────────────────
+  📖 Zero Trust Architecture
+  📖 Cloud Native Security (CNAPP)
+  📖 Kubernetes Security Hardening
+  📖 AI-Powered DevOps (MLOps)
+
+patiphat@cloudops:~$ cat ~/.interests
+──────────────────────────────────
+  🎯 CTF & Bug Bounty
+  🎯 Home Lab (Proxmox + K8s Cluster)
+  🎯 Threat Hunting & Blue Team
+  🎯 Infrastructure as Code Everything
+
+patiphat@cloudops:~$ ./stats.sh
+──────────────────────────────────
+  ⭐ Stars Earned ..... 30
+  📦 Public Repos ..... 8
+  👥 Followers ........ 3
+  🏆 Achievements ..... 7
 ```
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/padidong">
+    <img src="https://img.shields.io/github/followers/padidong?label=Follow&style=social" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/padidong">
+    <img src="https://img.shields.io/github/stars/padidong?affiliations=OWNER&style=social" />
+  </a>
+</div>
 
 </td>
 
