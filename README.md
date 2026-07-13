@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== CUSTOM HEADER ===== -->
-<img src="https://raw.githubusercontent.com/padidong/padidong/main/assets/header.svg" width="100%" alt="Patiphat Jeenchum — DevOps • Cyber Security • Cloud Architect" />
+<img src="https://raw.githubusercontent.com/padidong/padidong/main/assets/banner.svg" width="100%" alt="Patiphat Jeenchum — DevOps • Cyber Security • Cloud Architect" />
 
 <br/>
 
