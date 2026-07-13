@@ -169,6 +169,19 @@ patiphat@cloudops:~$ ls -la ~/skills/
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 
+<br/>
+<br/>
+
+<!-- AI & LLM -->
+**🤖 AI & LLM Tools**
+<br/>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+
 </td>
 </tr>
 </table>
@@ -185,10 +198,10 @@ patiphat@cloudops:~$ ls -la ~/skills/
 ## 📊 github analytics
 
 <a href="https://github.com/padidong">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=padidong&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B35&icon_color=DA4453&text_color=CDD6F4&ring_color=E96443&hide=stars" />
+  <img height="170" src="https://github-readme-stats-beryl.vercel.app/api?username=padidong&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B35&icon_color=DA4453&text_color=CDD6F4&ring_color=E96443&hide=stars" />
 </a>
 <a href="https://github.com/padidong">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padidong&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=CDD6F4&langs_count=6" />
+  <img height="170" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=padidong&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=CDD6F4&langs_count=6" />
 </a>
 
 <br/>
@@ -200,10 +213,8 @@ patiphat@cloudops:~$ ls -la ~/skills/
 <br/>
 <br/>
 
-## 🏆 trophies
-
 <a href="https://github.com/padidong">
-  <img width="88%" src="https://github-profile-trophy.vercel.app/?username=padidong&theme=gruvbox&no-frame=true&column=6&margin-w=8&no-bg=true&rank=-C,-?" />
+  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=padidong&bg_color=0D1117&color=FF6B35&line=DA4453&point=E96443&area=true&hide_border=true" />
 </a>
 
 </div>
